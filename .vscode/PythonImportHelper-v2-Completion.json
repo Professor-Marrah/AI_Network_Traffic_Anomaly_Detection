@@ -1,0 +1,747 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "datasets",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.auto",
+        "description": "tqdm.auto",
+        "isExtraImport": true,
+        "detail": "tqdm.auto",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "data_setup,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "data_setup.",
+        "description": "data_setup.",
+        "detail": "data_setup.",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "torch.optim",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.optim",
+        "description": "torch.optim",
+        "detail": "torch.optim",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision.transforms",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "create_dataloaders",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.data_setup",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.data_setup",
+        "peekOfCode": "def create_dataloaders(\n    train_dir: str, \n    test_dir: str, \n    transform: transforms.Compose, \n    batch_size: int, \n    num_workers: int=NUM_WORKERS\n):\n  \"\"\"Creates training and testing DataLoaders.\n  Takes in a training directory and testing directory path and turns\n  them into PyTorch Datasets and then into PyTorch DataLoaders.",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.data_setup",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_WORKERS",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.data_setup",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.data_setup",
+        "peekOfCode": "NUM_WORKERS = os.cpu_count()\ndef create_dataloaders(\n    train_dir: str, \n    test_dir: str, \n    transform: transforms.Compose, \n    batch_size: int, \n    num_workers: int=NUM_WORKERS\n):\n  \"\"\"Creates training and testing DataLoaders.\n  Takes in a training directory and testing directory path and turns",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.data_setup",
+        "documentation": {}
+    },
+    {
+        "label": "train_step",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.engine",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.engine",
+        "peekOfCode": "def train_step(model: torch.nn.Module, \n               dataloader: torch.utils.data.DataLoader, \n               loss_fn: torch.nn.Module, \n               optimizer: torch.optim.Optimizer,\n               device: torch.device) -> Tuple[float, float]:\n    \"\"\"Trains a PyTorch model for a single epoch.\n    Turns a target PyTorch model to training mode and then\n    runs through all of the required training steps (forward\n    pass, loss calculation, optimizer step).\n    Args:",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.engine",
+        "documentation": {}
+    },
+    {
+        "label": "test_step",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.engine",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.engine",
+        "peekOfCode": "def test_step(model: torch.nn.Module, \n              dataloader: torch.utils.data.DataLoader, \n              loss_fn: torch.nn.Module,\n              device: torch.device) -> Tuple[float, float]:\n    \"\"\"Tests a PyTorch model for a single epoch.\n    Turns a target PyTorch model to \"eval\" mode and then performs\n    a forward pass on a testing dataset.\n    Args:\n    model: A PyTorch model to be tested.\n    dataloader: A DataLoader instance for the model to be tested on.",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.engine",
+        "documentation": {}
+    },
+    {
+        "label": "train",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.engine",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.engine",
+        "peekOfCode": "def train(model: torch.nn.Module, \n          train_dataloader: torch.utils.data.DataLoader, \n          test_dataloader: torch.utils.data.DataLoader, \n          optimizer: torch.optim.Optimizer,\n          loss_fn: torch.nn.Module,\n          epochs: int,\n          device: torch.device) -> Dict[str, List]:\n    \"\"\"Trains and tests a PyTorch model.\n    Passes a target PyTorch models through train_step() and test_step()\n    functions for a number of epochs, training and testing the model",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.engine",
+        "documentation": {}
+    },
+    {
+        "label": "TinyVGG",
+        "kind": 6,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.model_builder",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.model_builder",
+        "peekOfCode": "class TinyVGG(nn.Module):\n    \"\"\"Creates the TinyVGG architecture.\n    Replicates the TinyVGG architecture from the CNN explainer website in PyTorch.\n    See the original architecture here: https://poloclub.github.io/cnn-explainer/\n    Args:\n    input_shape: An integer indicating number of input channels.\n    hidden_units: An integer indicating number of hidden units between layers.\n    output_shape: An integer indicating number of output units.\n    \"\"\"\n    def __init__(self, input_shape: int, hidden_units: int, output_shape: int) -> None:",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.model_builder",
+        "documentation": {}
+    },
+    {
+        "label": "pred_and_plot_image",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.predictions",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.predictions",
+        "peekOfCode": "def pred_and_plot_image(\n    model: torch.nn.Module,\n    class_names: List[str],\n    image_path: str,\n    image_size: Tuple[int, int] = (224, 224),\n    transform: torchvision.transforms = None,\n    device: torch.device = device,\n):\n    \"\"\"Predicts on a target image with a target model.\n    Args:",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.predictions",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.predictions",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.predictions",
+        "peekOfCode": "device = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n# Predict on a target image with a target model\n# Function created in: https://www.learnpytorch.io/06_pytorch_transfer_learning/#6-make-predictions-on-images-from-the-test-set\ndef pred_and_plot_image(\n    model: torch.nn.Module,\n    class_names: List[str],\n    image_path: str,\n    image_size: Tuple[int, int] = (224, 224),\n    transform: torchvision.transforms = None,\n    device: torch.device = device,",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.predictions",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_EPOCHS",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "NUM_EPOCHS = 5\nBATCH_SIZE = 32\nHIDDEN_UNITS = 10\nLEARNING_RATE = 0.001\n# Setup directories\ntrain_dir = \"data/pizza_steak_sushi/train\"\ntest_dir = \"data/pizza_steak_sushi/test\"\n# Setup target device\ndevice = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n# Create transforms",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "BATCH_SIZE = 32\nHIDDEN_UNITS = 10\nLEARNING_RATE = 0.001\n# Setup directories\ntrain_dir = \"data/pizza_steak_sushi/train\"\ntest_dir = \"data/pizza_steak_sushi/test\"\n# Setup target device\ndevice = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n# Create transforms\ndata_transform = transforms.Compose([",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "HIDDEN_UNITS",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "HIDDEN_UNITS = 10\nLEARNING_RATE = 0.001\n# Setup directories\ntrain_dir = \"data/pizza_steak_sushi/train\"\ntest_dir = \"data/pizza_steak_sushi/test\"\n# Setup target device\ndevice = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n# Create transforms\ndata_transform = transforms.Compose([\n  transforms.Resize((64, 64)),",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "LEARNING_RATE",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "LEARNING_RATE = 0.001\n# Setup directories\ntrain_dir = \"data/pizza_steak_sushi/train\"\ntest_dir = \"data/pizza_steak_sushi/test\"\n# Setup target device\ndevice = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n# Create transforms\ndata_transform = transforms.Compose([\n  transforms.Resize((64, 64)),\n  transforms.ToTensor()",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "train_dir",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "train_dir = \"data/pizza_steak_sushi/train\"\ntest_dir = \"data/pizza_steak_sushi/test\"\n# Setup target device\ndevice = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n# Create transforms\ndata_transform = transforms.Compose([\n  transforms.Resize((64, 64)),\n  transforms.ToTensor()\n])\n# Create DataLoaders with help from data_setup.py",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "test_dir",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "test_dir = \"data/pizza_steak_sushi/test\"\n# Setup target device\ndevice = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n# Create transforms\ndata_transform = transforms.Compose([\n  transforms.Resize((64, 64)),\n  transforms.ToTensor()\n])\n# Create DataLoaders with help from data_setup.py\ntrain_dataloader, test_dataloader, class_names = data_setup.create_dataloaders(",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "device = \"cuda\" if torch.cuda.is_available() else \"cpu\"\n# Create transforms\ndata_transform = transforms.Compose([\n  transforms.Resize((64, 64)),\n  transforms.ToTensor()\n])\n# Create DataLoaders with help from data_setup.py\ntrain_dataloader, test_dataloader, class_names = data_setup.create_dataloaders(\n    train_dir=train_dir,\n    test_dir=test_dir,",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "data_transform",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "data_transform = transforms.Compose([\n  transforms.Resize((64, 64)),\n  transforms.ToTensor()\n])\n# Create DataLoaders with help from data_setup.py\ntrain_dataloader, test_dataloader, class_names = data_setup.create_dataloaders(\n    train_dir=train_dir,\n    test_dir=test_dir,\n    transform=data_transform,\n    batch_size=BATCH_SIZE",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "model = model_builder.TinyVGG(\n    input_shape=3,\n    hidden_units=HIDDEN_UNITS,\n    output_shape=len(class_names)\n).to(device)\n# Set loss and optimizer\nloss_fn = torch.nn.CrossEntropyLoss()\noptimizer = torch.optim.Adam(model.parameters(),\n                             lr=LEARNING_RATE)\n# Start training with help from engine.py",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "loss_fn",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "loss_fn = torch.nn.CrossEntropyLoss()\noptimizer = torch.optim.Adam(model.parameters(),\n                             lr=LEARNING_RATE)\n# Start training with help from engine.py\nengine.train(model=model,\n             train_dataloader=train_dataloader,\n             test_dataloader=test_dataloader,\n             loss_fn=loss_fn,\n             optimizer=optimizer,\n             epochs=NUM_EPOCHS,",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "peekOfCode": "optimizer = torch.optim.Adam(model.parameters(),\n                             lr=LEARNING_RATE)\n# Start training with help from engine.py\nengine.train(model=model,\n             train_dataloader=train_dataloader,\n             test_dataloader=test_dataloader,\n             loss_fn=loss_fn,\n             optimizer=optimizer,\n             epochs=NUM_EPOCHS,\n             device=device)",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.train",
+        "documentation": {}
+    },
+    {
+        "label": "save_model",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.going_modular.going_modular.utils",
+        "description": "pytorch-deep-learning-main.going_modular.going_modular.utils",
+        "peekOfCode": "def save_model(model: torch.nn.Module,\n               target_dir: str,\n               model_name: str):\n    \"\"\"Saves a PyTorch model to a target directory.\n    Args:\n    model: A target PyTorch model to save.\n    target_dir: A directory for saving the model to.\n    model_name: A filename for the saved model. Should include\n      either \".pth\" or \".pt\" as the file extension.\n    Example usage:",
+        "detail": "pytorch-deep-learning-main.going_modular.going_modular.utils",
+        "documentation": {}
+    },
+    {
+        "label": "walk_through_dir",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.helper_functions",
+        "description": "pytorch-deep-learning-main.helper_functions",
+        "peekOfCode": "def walk_through_dir(dir_path):\n    \"\"\"\n    Walks through dir_path returning its contents.\n    Args:\n    dir_path (str): target directory\n    Returns:\n    A print out of:\n      number of subdiretories in dir_path\n      number of images (files) in each subdirectory\n      name of each subdirectory",
+        "detail": "pytorch-deep-learning-main.helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "plot_decision_boundary",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.helper_functions",
+        "description": "pytorch-deep-learning-main.helper_functions",
+        "peekOfCode": "def plot_decision_boundary(model: torch.nn.Module, X: torch.Tensor, y: torch.Tensor):\n    \"\"\"Plots decision boundaries of model predicting on X in comparison to y.\n    Source - https://madewithml.com/courses/foundations/neural-networks/ (with modifications)\n    \"\"\"\n    # Put everything to CPU (works better with NumPy + Matplotlib)\n    model.to(\"cpu\")\n    X, y = X.to(\"cpu\"), y.to(\"cpu\")\n    # Setup prediction boundaries and grid\n    x_min, x_max = X[:, 0].min() - 0.1, X[:, 0].max() + 0.1\n    y_min, y_max = X[:, 1].min() - 0.1, X[:, 1].max() + 0.1",
+        "detail": "pytorch-deep-learning-main.helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "plot_predictions",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.helper_functions",
+        "description": "pytorch-deep-learning-main.helper_functions",
+        "peekOfCode": "def plot_predictions(\n    train_data, train_labels, test_data, test_labels, predictions=None\n):\n    \"\"\"\n  Plots linear training data and test data and compares predictions.\n  \"\"\"\n    plt.figure(figsize=(10, 7))\n    # Plot training data in blue\n    plt.scatter(train_data, train_labels, c=\"b\", s=4, label=\"Training data\")\n    # Plot test data in green",
+        "detail": "pytorch-deep-learning-main.helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_fn",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.helper_functions",
+        "description": "pytorch-deep-learning-main.helper_functions",
+        "peekOfCode": "def accuracy_fn(y_true, y_pred):\n    \"\"\"Calculates accuracy between truth labels and predictions.\n    Args:\n        y_true (torch.Tensor): Truth labels for predictions.\n        y_pred (torch.Tensor): Predictions to be compared to predictions.\n    Returns:\n        [torch.float]: Accuracy value between y_true and y_pred, e.g. 78.45\n    \"\"\"\n    correct = torch.eq(y_true, y_pred).sum().item()\n    acc = (correct / len(y_pred)) * 100",
+        "detail": "pytorch-deep-learning-main.helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "print_train_time",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.helper_functions",
+        "description": "pytorch-deep-learning-main.helper_functions",
+        "peekOfCode": "def print_train_time(start, end, device=None):\n    \"\"\"Prints difference between start and end time.\n    Args:\n        start (float): Start time of computation (preferred in timeit format). \n        end (float): End time of computation.\n        device ([type], optional): Device that compute is running on. Defaults to None.\n    Returns:\n        float: time between start and end in seconds (higher is longer).\n    \"\"\"\n    total_time = end - start",
+        "detail": "pytorch-deep-learning-main.helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "plot_loss_curves",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.helper_functions",
+        "description": "pytorch-deep-learning-main.helper_functions",
+        "peekOfCode": "def plot_loss_curves(results):\n    \"\"\"Plots training curves of a results dictionary.\n    Args:\n        results (dict): dictionary containing list of values, e.g.\n            {\"train_loss\": [...],\n             \"train_acc\": [...],\n             \"test_loss\": [...],\n             \"test_acc\": [...]}\n    \"\"\"\n    loss = results[\"train_loss\"]",
+        "detail": "pytorch-deep-learning-main.helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "pred_and_plot_image",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.helper_functions",
+        "description": "pytorch-deep-learning-main.helper_functions",
+        "peekOfCode": "def pred_and_plot_image(\n    model: torch.nn.Module,\n    image_path: str,\n    class_names: List[str] = None,\n    transform=None,\n    device: torch.device = \"cuda\" if torch.cuda.is_available() else \"cpu\",\n):\n    \"\"\"Makes a prediction on a target image with a trained model and plots the image.\n    Args:\n        model (torch.nn.Module): trained PyTorch image classification model.",
+        "detail": "pytorch-deep-learning-main.helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "set_seeds",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.helper_functions",
+        "description": "pytorch-deep-learning-main.helper_functions",
+        "peekOfCode": "def set_seeds(seed: int=42):\n    \"\"\"Sets random sets for torch operations.\n    Args:\n        seed (int, optional): Random seed to set. Defaults to 42.\n    \"\"\"\n    # Set the seed for general torch operations\n    torch.manual_seed(seed)\n    # Set the seed for CUDA torch operations (ones that happen on the GPU)\n    torch.cuda.manual_seed(seed)\ndef download_data(source: str, ",
+        "detail": "pytorch-deep-learning-main.helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "download_data",
+        "kind": 2,
+        "importPath": "pytorch-deep-learning-main.helper_functions",
+        "description": "pytorch-deep-learning-main.helper_functions",
+        "peekOfCode": "def download_data(source: str, \n                  destination: str,\n                  remove_source: bool = True) -> Path:\n    \"\"\"Downloads a zipped dataset from source and unzips to destination.\n    Args:\n        source (str): A link to a zipped file containing data.\n        destination (str): A target directory to unzip data to.\n        remove_source (bool): Whether to remove the source after downloading and extracting.\n    Returns:\n        pathlib.Path to downloaded data.",
+        "detail": "pytorch-deep-learning-main.helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self):\n        super(Net, self).__init__()\n        self.conv1 = nn.Conv2d(3, 6, 5)\n        self.pool = nn.MaxPool2d(2, 2)\n        self.conv2 = nn.Conv2d(6, 16, 5)\n        self.fc1 = nn.Linear(16 * 5 * 5, 120)\n        self.fc2 = nn.Linear(120, 84)\n        self.fc3 = nn.Linear(84, 10)\n    def forward(self, x):",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "imshow",
+        "kind": 2,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "def imshow(img):\n    img = img / 2 + 0.5     # unnormalize\n    npimg = img.numpy()\n    plt.imshow(np.transpose(npimg, (1, 2, 0)))\n# get some random training images\ndataiter = iter(trainloader)\nimages, labels = dataiter.next()\n# show images\nimshow(torchvision.utils.make_grid(images))\n# print labels",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "transform",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "transform = transforms.Compose(\n    [transforms.ToTensor(),\n     transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])\ntrainset = torchvision.datasets.CIFAR10(root='./data', train=True,\n                                        download=True, transform=transform)\ntrainloader = torch.utils.data.DataLoader(trainset, batch_size=4,\n                                          shuffle=True, num_workers=2)\ntestset = torchvision.datasets.CIFAR10(root='./data', train=False,\n                                       download=True, transform=transform)\ntestloader = torch.utils.data.DataLoader(testset, batch_size=4,",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "trainset",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "trainset = torchvision.datasets.CIFAR10(root='./data', train=True,\n                                        download=True, transform=transform)\ntrainloader = torch.utils.data.DataLoader(trainset, batch_size=4,\n                                          shuffle=True, num_workers=2)\ntestset = torchvision.datasets.CIFAR10(root='./data', train=False,\n                                       download=True, transform=transform)\ntestloader = torch.utils.data.DataLoader(testset, batch_size=4,\n                                         shuffle=False, num_workers=2)\nclasses = ('plane', 'car', 'bird', 'cat',\n           'deer', 'dog', 'frog', 'horse', 'ship', 'truck')",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "trainloader",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "trainloader = torch.utils.data.DataLoader(trainset, batch_size=4,\n                                          shuffle=True, num_workers=2)\ntestset = torchvision.datasets.CIFAR10(root='./data', train=False,\n                                       download=True, transform=transform)\ntestloader = torch.utils.data.DataLoader(testset, batch_size=4,\n                                         shuffle=False, num_workers=2)\nclasses = ('plane', 'car', 'bird', 'cat',\n           'deer', 'dog', 'frog', 'horse', 'ship', 'truck')\n# We'll run our check on the output from `DataLoader`:\n# In[3]:",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "testset",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "testset = torchvision.datasets.CIFAR10(root='./data', train=False,\n                                       download=True, transform=transform)\ntestloader = torch.utils.data.DataLoader(testset, batch_size=4,\n                                         shuffle=False, num_workers=2)\nclasses = ('plane', 'car', 'bird', 'cat',\n           'deer', 'dog', 'frog', 'horse', 'ship', 'truck')\n# We'll run our check on the output from `DataLoader`:\n# In[3]:\nimport matplotlib.pyplot as plt\nimport numpy as np",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "testloader",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "testloader = torch.utils.data.DataLoader(testset, batch_size=4,\n                                         shuffle=False, num_workers=2)\nclasses = ('plane', 'car', 'bird', 'cat',\n           'deer', 'dog', 'frog', 'horse', 'ship', 'truck')\n# We'll run our check on the output from `DataLoader`:\n# In[3]:\nimport matplotlib.pyplot as plt\nimport numpy as np\n# functions to show an image\ndef imshow(img):",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "classes",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "classes = ('plane', 'car', 'bird', 'cat',\n           'deer', 'dog', 'frog', 'horse', 'ship', 'truck')\n# We'll run our check on the output from `DataLoader`:\n# In[3]:\nimport matplotlib.pyplot as plt\nimport numpy as np\n# functions to show an image\ndef imshow(img):\n    img = img / 2 + 0.5     # unnormalize\n    npimg = img.numpy()",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "dataiter",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "dataiter = iter(trainloader)\nimages, labels = dataiter.next()\n# show images\nimshow(torchvision.utils.make_grid(images))\n# print labels\nprint(' '.join('%5s' % classes[labels[j]] for j in range(4)))\n# This is the model we'll train. If it looks familiar, that's because it's a variant of LeNet - discussed earlier in this video - adapted for 3-color images.\n# In[4]:\nclass Net(nn.Module):\n    def __init__(self):",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "net",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "net = Net()\n# The last ingredients we need are a loss function and an optimizer:\n# In[5]:\ncriterion = nn.CrossEntropyLoss()\noptimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)\n# The loss function, as discussed earlier in this video, is a measure of how far from our ideal output the model's prediction was. Cross-entropy loss is a typical loss function for classification models like ours.\n# \n# The **optimizer** is what drives the learning. Here we have created an optimizer that implements *stochastic gradient descent,* one of the more straightforward optimization algorithms. Besides parameters of the algorithm, like the learning rate (`lr`) and momentum, we also pass in `net.parameters()`, which is a collection of all the learning weights in the model - which is what the optimizer adjusts.\n# \n# Finally, all of this is assembled into the training loop. Go ahead and run this cell, as it will likely take a few minutes to execute:",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "criterion",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "criterion = nn.CrossEntropyLoss()\noptimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)\n# The loss function, as discussed earlier in this video, is a measure of how far from our ideal output the model's prediction was. Cross-entropy loss is a typical loss function for classification models like ours.\n# \n# The **optimizer** is what drives the learning. Here we have created an optimizer that implements *stochastic gradient descent,* one of the more straightforward optimization algorithms. Besides parameters of the algorithm, like the learning rate (`lr`) and momentum, we also pass in `net.parameters()`, which is a collection of all the learning weights in the model - which is what the optimizer adjusts.\n# \n# Finally, all of this is assembled into the training loop. Go ahead and run this cell, as it will likely take a few minutes to execute:\n# In[6]:\nfor epoch in range(2):  # loop over the dataset multiple times\n    running_loss = 0.0",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "optimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)\n# The loss function, as discussed earlier in this video, is a measure of how far from our ideal output the model's prediction was. Cross-entropy loss is a typical loss function for classification models like ours.\n# \n# The **optimizer** is what drives the learning. Here we have created an optimizer that implements *stochastic gradient descent,* one of the more straightforward optimization algorithms. Besides parameters of the algorithm, like the learning rate (`lr`) and momentum, we also pass in `net.parameters()`, which is a collection of all the learning weights in the model - which is what the optimizer adjusts.\n# \n# Finally, all of this is assembled into the training loop. Go ahead and run this cell, as it will likely take a few minutes to execute:\n# In[6]:\nfor epoch in range(2):  # loop over the dataset multiple times\n    running_loss = 0.0\n    for i, data in enumerate(trainloader, 0):",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "correct",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "correct = 0\ntotal = 0\nwith torch.no_grad():\n    for data in testloader:\n        images, labels = data\n        outputs = net(images)\n        _, predicted = torch.max(outputs.data, 1)\n        total += labels.size(0)\n        correct += (predicted == labels).sum().item()\nprint('Accuracy of the network on the 10000 test images: %d %%' % (",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "total",
+        "kind": 5,
+        "importPath": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "description": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "peekOfCode": "total = 0\nwith torch.no_grad():\n    for data in testloader:\n        images, labels = data\n        outputs = net(images)\n        _, predicted = torch.max(outputs.data, 1)\n        total += labels.size(0)\n        correct += (predicted == labels).sum().item()\nprint('Accuracy of the network on the 10000 test images: %d %%' % (\n    100 * correct / total))",
+        "detail": "video1..ipynb_checkpoints.training_tutorial-checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "walk_through_dir",
+        "kind": 2,
+        "importPath": "helper_functions",
+        "description": "helper_functions",
+        "peekOfCode": "def walk_through_dir(dir_path):\n    \"\"\"\n    Walks through dir_path returning its contents.\n    Args:\n    dir_path (str): target directory\n    Returns:\n    A print out of:\n      number of subdiretories in dir_path\n      number of images (files) in each subdirectory\n      name of each subdirectory",
+        "detail": "helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "plot_decision_boundary",
+        "kind": 2,
+        "importPath": "helper_functions",
+        "description": "helper_functions",
+        "peekOfCode": "def plot_decision_boundary(model: torch.nn.Module, X: torch.Tensor, y: torch.Tensor):\n    \"\"\"Plots decision boundaries of model predicting on X in comparison to y.\n    Source - https://madewithml.com/courses/foundations/neural-networks/ (with modifications)\n    \"\"\"\n    # Put everything to CPU (works better with NumPy + Matplotlib)\n    model.to(\"cpu\")\n    X, y = X.to(\"cpu\"), y.to(\"cpu\")\n    # Setup prediction boundaries and grid\n    x_min, x_max = X[:, 0].min() - 0.1, X[:, 0].max() + 0.1\n    y_min, y_max = X[:, 1].min() - 0.1, X[:, 1].max() + 0.1",
+        "detail": "helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "plot_predictions",
+        "kind": 2,
+        "importPath": "helper_functions",
+        "description": "helper_functions",
+        "peekOfCode": "def plot_predictions(\n    train_data, train_labels, test_data, test_labels, predictions=None\n):\n    \"\"\"\n  Plots linear training data and test data and compares predictions.\n  \"\"\"\n    plt.figure(figsize=(10, 7))\n    # Plot training data in blue\n    plt.scatter(train_data, train_labels, c=\"b\", s=4, label=\"Training data\")\n    # Plot test data in green",
+        "detail": "helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_fn",
+        "kind": 2,
+        "importPath": "helper_functions",
+        "description": "helper_functions",
+        "peekOfCode": "def accuracy_fn(y_true, y_pred):\n    \"\"\"Calculates accuracy between truth labels and predictions.\n    Args:\n        y_true (torch.Tensor): Truth labels for predictions.\n        y_pred (torch.Tensor): Predictions to be compared to predictions.\n    Returns:\n        [torch.float]: Accuracy value between y_true and y_pred, e.g. 78.45\n    \"\"\"\n    correct = torch.eq(y_true, y_pred).sum().item()\n    acc = (correct / len(y_pred)) * 100",
+        "detail": "helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "print_train_time",
+        "kind": 2,
+        "importPath": "helper_functions",
+        "description": "helper_functions",
+        "peekOfCode": "def print_train_time(start, end, device=None):\n    \"\"\"Prints difference between start and end time.\n    Args:\n        start (float): Start time of computation (preferred in timeit format). \n        end (float): End time of computation.\n        device ([type], optional): Device that compute is running on. Defaults to None.\n    Returns:\n        float: time between start and end in seconds (higher is longer).\n    \"\"\"\n    total_time = end - start",
+        "detail": "helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "plot_loss_curves",
+        "kind": 2,
+        "importPath": "helper_functions",
+        "description": "helper_functions",
+        "peekOfCode": "def plot_loss_curves(results):\n    \"\"\"Plots training curves of a results dictionary.\n    Args:\n        results (dict): dictionary containing list of values, e.g.\n            {\"train_loss\": [...],\n             \"train_acc\": [...],\n             \"test_loss\": [...],\n             \"test_acc\": [...]}\n    \"\"\"\n    loss = results[\"train_loss\"]",
+        "detail": "helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "pred_and_plot_image",
+        "kind": 2,
+        "importPath": "helper_functions",
+        "description": "helper_functions",
+        "peekOfCode": "def pred_and_plot_image(\n    model: torch.nn.Module,\n    image_path: str,\n    class_names: List[str] = None,\n    transform=None,\n    device: torch.device = \"cuda\" if torch.cuda.is_available() else \"cpu\",\n):\n    \"\"\"Makes a prediction on a target image with a trained model and plots the image.\n    Args:\n        model (torch.nn.Module): trained PyTorch image classification model.",
+        "detail": "helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "set_seeds",
+        "kind": 2,
+        "importPath": "helper_functions",
+        "description": "helper_functions",
+        "peekOfCode": "def set_seeds(seed: int=42):\n    \"\"\"Sets random sets for torch operations.\n    Args:\n        seed (int, optional): Random seed to set. Defaults to 42.\n    \"\"\"\n    # Set the seed for general torch operations\n    torch.manual_seed(seed)\n    # Set the seed for CUDA torch operations (ones that happen on the GPU)\n    torch.cuda.manual_seed(seed)\ndef download_data(source: str, ",
+        "detail": "helper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "download_data",
+        "kind": 2,
+        "importPath": "helper_functions",
+        "description": "helper_functions",
+        "peekOfCode": "def download_data(source: str, \n                  destination: str,\n                  remove_source: bool = True) -> Path:\n    \"\"\"Downloads a zipped dataset from source and unzips to destination.\n    Args:\n        source (str): A link to a zipped file containing data.\n        destination (str): A target directory to unzip data to.\n        remove_source (bool): Whether to remove the source after downloading and extracting.\n    Returns:\n        pathlib.Path to downloaded data.",
+        "detail": "helper_functions",
+        "documentation": {}
+    }
+]
